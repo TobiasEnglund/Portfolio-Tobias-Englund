@@ -12,6 +12,7 @@ matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
 ta-lib = {file = "TA_Lib-0.4.28-cp311-cp311-win_amd64.whl"}
+ccxt = "*"
 
 [dev-packages]
 
