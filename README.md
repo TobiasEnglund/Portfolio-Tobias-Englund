@@ -1,9 +1,9 @@
 # Portfolio-Tobias-Englund
 
-## Om mig
+This is where I will publish my projects and links to school projects.
 
-Hej! Jag heter Tobias, är 27 år och ursprungligen från Säffle. Som person är jag glad och positiv.
+### School projects:
 
-## Intressen
-
-På fritiden uppskattar jag att lyssna på ljudböcker, programmera och tillbringa kvalitetstid med mina vänner. Jag tycker även om att experimentera med olika AI applikationer, t.ex Midjourney (AI image generator).
+**Cardiovascular disease classifications (in Swedish)**: https://github.com/TobiasEnglund/Machine-Learning/tree/main/Lab-Hj%C3%A4rt-K%C3%A4rlsjukdom
+**Project-OS-Italy (in Swedish)**: https://github.com/TobiasEnglund/Projekt-OS-Italien
+**Covid-19 analysis (in Swedish)**: https://github.com/TobiasEnglund/Data-Processing-Tobias-Englund/tree/main/Labs/Labb_1_Covid-19
